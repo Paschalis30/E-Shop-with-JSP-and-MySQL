@@ -1,0 +1,20 @@
+h5:hover{
+	
+	color:green;
+	
+}
+h1{
+	
+	color:black;
+}
+a{
+	color:black;
+	
+}
+a:hover{
+	color:grey;
+}
+a.active {
+  background-color: grey;
+  color: white;
+}
